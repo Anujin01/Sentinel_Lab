@@ -16,7 +16,17 @@ Unlike traditional methods that rely on PowerShell scripts for geolocation looku
 <img width="1013" alt="honeypot-map" src="https://github.com/user-attachments/assets/6de6f281-55d7-40c0-9ebf-3ee0af615f5b" />
 </p>
 
-<h2>🔧 Setup Guide</h2>
+<h2>🔧 Here's how I set it up</h2>
+
+ <ol>
+    <li>Azure Subscription: Started by creating a free 12-month Azure subscription.</li>
+    <li>Resource Group: Set up a resource group to organize resources efficiently.</li>
+    <li>Virtual Network & Machines: Deployed a virtual network and virtual machines, intentionally leaving the firewall off to make the environment more enticing to attackers.</li>
+    <li>Log Analytics Workspace: Created a Log Analytics workspace to capture incoming traffic and track attacker sources.</li>
+    <li>Microsoft Sentinel: Used Microsoft Sentinel to monitor and analyze malicious activities.</li>
+    <li>Mapping Attack Sources: Created a detailed attack map to visualize where the attacks were coming from.</li>
+  </ol>
+
 
 
 <h2>Languages used</h2>
