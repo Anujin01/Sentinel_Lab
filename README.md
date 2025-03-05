@@ -13,8 +13,11 @@ Unlike traditional methods that rely on PowerShell scripts for geolocation looku
 <b>Custom KQL queries for log analysis.</b><br>
 <b>Simulated vulnerable services to attract attackers.</b>
 <p align="center">
-<img src= "Screenshots/honeypot-map.png" height="85%" width="85%" alt="RDP event fail logs to iP Geographic information"/>
+<img width="1013" alt="honeypot-map" src="https://github.com/user-attachments/assets/6de6f281-55d7-40c0-9ebf-3ee0af615f5b" />
 </p>
+
+<h2>🔧 Setup Guide</h2>
+
 
 <h2>Languages used</h2>
 <b> Kusto Query Language (KQL) – Used in Azure Sentinel for querying and analyzing logs.</b>
